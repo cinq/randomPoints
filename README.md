@@ -10,3 +10,10 @@ Mobile application to randomly allocate points to the participants based on acco
 * Each participant can submit an accomplishment to other's vote for random points
 * 
 
+## Levels Definition
+* Rookie
+* 
+* Master
+* God
+* Phil
+
